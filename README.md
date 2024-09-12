@@ -1,4 +1,4 @@
-# Project: Servo Motor Control with ESP32, Arduino, and Raspberry Pi
+Servo Motor Control with ESP32, Arduino, and Raspberry Pi
 
 This project provides a comprehensive guide on controlling servo motors using different microcontrollers, including ESP32, Arduino, and Raspberry Pi. It explores various methods for interfacing with servo motors, focusing on PWM (Pulse Width Modulation) signals and other communication protocols supported by each platform. 
 
